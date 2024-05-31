@@ -12,7 +12,7 @@ This Python script deletes files and folders from a specified directory if they 
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/Effaly/automation-mini-projects/tree/f38080b5de17699a483c2a24dba7f9350a55e31a/Folder%20Cleaner
+    git clone https://github.com/Effaly/automation-mini-projects.git
     ```
 
 2. Navigate to the project directory:
