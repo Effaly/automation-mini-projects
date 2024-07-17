@@ -17,7 +17,7 @@ This Python script deletes files and folders from a specified directory if they 
 
 2. Navigate to the project directory:
     ```bash
-    cd your-repo-name
+    cd automation-mini-projects
     ```
 
 ## Usage
